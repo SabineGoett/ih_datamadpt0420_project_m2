@@ -23,8 +23,9 @@ All charts were created via functions with a dataframe as variable.
 
 https://public.tableau.com/profile/sina7192#!/vizhome/Diamonds_15960446817820/Dashboard1?publish=yes
 
+Sample Picture of the analysis: Scatter: price vs. carat for the categorical variables
 
-![scatter_carat_price](./scatter_carat_price.png "Sample graph: scatter: carat vs. price")
+![scatter_carat_price](./scatter_carat_price.png)
 
 
 
