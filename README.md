@@ -24,7 +24,8 @@ All charts were created via functions with a dataframe as variable.
 https://public.tableau.com/profile/sina7192#!/vizhome/Diamonds_15960446817820/Dashboard1?publish=yes
 
 
-![scatter: carat price]("scatter_carat_price.png")
+![alt text](scatter_carat_price.png "scatter_carat_price")
+
 
 
 
